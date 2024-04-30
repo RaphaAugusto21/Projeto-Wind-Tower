@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: fa6b94b07576c3549a9debe644c3d52c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - a Area Stencil
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d4ece0cdf7a9cce4c81f0d8de6b46c67, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
